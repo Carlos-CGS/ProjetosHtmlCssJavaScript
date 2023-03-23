@@ -1,0 +1,95 @@
+/* Css dos Mapas */
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#AAAAAA;
+}
+.topo{
+	position:relative;
+	width:100%;
+	height:100px;
+	background-color:#00006C;
+	color:#AAAAAA;
+	font-family:georgia, arial, helvetica;
+	font-size:75px;
+	text-align:center;
+	border-bottom:2px solid #000000;
+	text-shadow:2px 2px 2px #000000;
+}
+#linkmar{
+	margin-left:55px;
+	margin-right:15px;
+	position:relative;
+	width:400px;
+	height:280px;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	box-shadow:2px 2px 2px #000000
+
+}
+#linkfloresta{
+	margin-right:15px;
+	position:relative;
+	width:400px;
+	height:280px;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	box-shadow:2px 2px 2px #000000;
+}
+#linkceu{
+	position:relative;
+	width:400px;
+	height:280px;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	box-shadow:2px 2px 2px #000000;
+}
+#linkmapa{
+	position:relative;
+	width:380px;
+	height:450px;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	box-shadow:2px 2px 2px #000000;
+}
+#linkmar:hover{
+	width:410px;
+	height:290px;
+}
+#linkfloresta:hover{
+	width:410px;
+	height:290px;
+}
+#linkceu:hover{
+	width:410px;
+	height:290px;
+}
+#linkmapa:hover{
+	width:390px;
+	height:460px;
+}
+#titulo{
+	text-align:center;
+	font-family: georgia, "comic sans ms", arial;
+	font-size:70px;
+	color:#00006C;
+	text-decoration:underline;
+}
+#paragrafo1{
+	font-family:georgia,"comic sans ms",arial;
+	font-size:30px;
+	color:#000000;
+	text-align:center;
+}
+#paragrafo2{
+	font-family:georgia,"comic sans ms",arial;
+	font-size:22px;
+	color:#000000;
+	text-align:center;
+}

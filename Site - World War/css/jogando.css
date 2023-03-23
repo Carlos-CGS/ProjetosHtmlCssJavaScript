@@ -1,0 +1,36 @@
+.esta_div {
+	position:relative;
+	width:100%;
+	height:80px;
+	background-color:#00006C;
+	color:#AAAAAA;
+	font-family:georgia, arial, helvetica;
+	font-size:65px;
+	text-align:center;
+	border-bottom:2px solid #000000;
+	text-shadow:2px 2px 2px #000000;
+	
+}
+
+td{
+	width:70px;
+	height:90px;
+	border:1px solid #AAAAAA;
+}
+
+#soldado0011{
+	width:70px; 
+	height:100px;
+}
+#soldado0012{
+	width:70px; 
+	height:100px;
+}
+#soldado0013{
+	width:70px; 
+	height:100px;
+}
+#oficialSniper{
+	width:70px; 
+	height:100px;
+}

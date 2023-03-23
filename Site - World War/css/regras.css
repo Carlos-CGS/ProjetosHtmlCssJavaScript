@@ -1,0 +1,17 @@
+/* CSS Regras */
+
+.topo{
+	position:relative;
+	width:100%;
+	height:100px;
+	background-color:#00006C;
+	color:#AAAAAA;
+	font-family:georgia, arial, helvetica;
+	font-size:75px;
+	text-align:center;
+	border-bottom:2px solid #000000;
+	text-shadow:2px 2px 2px #000000;
+}
+.div2{
+	margin:20px;
+}

@@ -1,0 +1,41 @@
+/*CSS dos CARDS*/
+*{
+	margin:0;
+	padding:0;
+}
+.topo{
+	position:relative;
+	width:100%;
+	height:100px;
+	background-color:#00006C;
+	color:#AAAAAA;
+	font-family:georgia, arial, helvetica;
+	font-size:75px;
+	text-align:center;
+	border-bottom:2px solid #000000;
+	text-shadow:2px 2px 2px #000000;
+}
+
+body{
+	background-color:#AAAAAA;
+}
+
+#paragrafo1{
+	font-family:georgia, "comic sans ms", arial;
+	font-size:30px;
+	color:#000000;
+	text-align:center;
+}
+#paragrafo2{
+	font-family:georgia, "comic sans ms", arial;
+	font-size:25px;
+	color:#000000;
+	text-align:center;
+}
+#paragrafo3{
+	text-align:center;
+	font-family: georgia, "comic sans ms", arial;
+	font-size:70px;
+	color:#00006C;
+	text-decoration:underline;
+}
