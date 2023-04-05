@@ -1,4 +1,4 @@
-# Projetos Desenvolvidos em Linguegem HTML / CSS / JavaScript
+# Projetos Desenvolvidos em Linguagem HTML/CSS/JavaScript
 
 ✅ [Site World War](https://github.com/Carlos-CGS/ProjetosHtmlCss/tree/main/Site%20-%20World%20War) | Projeto de Jogo de cartas/estratégico em desenvolvimento. 
 
