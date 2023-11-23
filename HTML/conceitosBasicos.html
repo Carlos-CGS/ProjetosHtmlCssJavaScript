@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle Acesso</title>
+</head>
+<body>
+    <form name="signUp" onsubmit="alert('Cadastro Enviado.');" autocomplete="off" method="get" action="https://meusite.com.br/signup">
+        Nome: <input type="text" name="name" /><br>
+        Idade:<input type="number" name="idade" /><br>
+        Senha: <input type="password" name="senha" /><br>
+        Range: <input type="range" min="1" max="99" /><br>
+        Color: <input type="color" /><br>
+        E-mail: <input type="email" /><br>
+        URL: <input type="url" /><br>
+        Date: <input type="date" /><br>
+        Mês: <input type="month" /><br>
+
+        CheckBox: <input type="checkbox" name="opicional[]" value="Queijo"/><br>
+        CheckBox: <input type="checkbox" name="opicional[]" value="=Preseunto"/><br>
+        CheckBox: <input type="checkbox" name="opicional[]" value="Manteiga"/><br>
+        Radio: <input type="radio" name="Aceita" value="Sim"/><input type="radio" name="Aceita" value="Não"/><br>
+        Select-Box <select name="role">
+            <option value="">Selecione um Cargo</option>
+            <option value="soldado">Soldado</option>
+            <option value="cabo">Cabo</option>
+            <option value="sargento">Sargento</option>
+        </select><br>
+    
+    
+        
+        File: <input type="file" /><br>
+        File Multiplos: <input type="file" multiple /><br>
+
+        <textarea name="message" rows="10" cols="35"></textarea><br>
+        <button type="button"> Enviar </button><br>
+        <button type="submit"> Enviar </button><br>
+        <button type="reset"> Apagar </button> 
+        
+    </form>
+
+
+</body>
+</html>
