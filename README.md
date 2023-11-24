@@ -1,6 +1,8 @@
 # Projetos Desenvolvidos em Linguagem HTML/CSS/JavaScript
 
-✅ [Site Pessoal](https://github.com/Carlos-CGS/ProjetosHtmlCssJavaScript/tree/main/Carlos-CGS) | Site criado para entrega de um desafio de projeto de um Bootcamp DIO.
+✅ [Site Pessoal](https://github.com/Carlos-CGS/ProjetosHtmlCssJavaScript/tree/main/Carlos-CGS) | Site Pessoal criado para entrega de um desafio de projeto de um Bootcamp DIO.
+
+✅ [HTMLl](https://github.com/Carlos-CGS/ProjetosHtmlCssJavaScript/tree/main/HTML) | Noções de uso do HTML aprendido durante cursos.
 
 ✅ [Site World War](https://github.com/Carlos-CGS/ProjetosHtmlCss/tree/main/Site%20-%20World%20War) | Projeto de Jogo de cartas/estratégico em desenvolvimento. 
 
