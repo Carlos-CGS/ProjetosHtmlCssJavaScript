@@ -41,3 +41,4 @@ const carro1 = new Veiculo('Gol', 'branco');
 const carro2 = new Veiculo('Palio', 'preto');
 console.log(carro1, carro2);
 
+
