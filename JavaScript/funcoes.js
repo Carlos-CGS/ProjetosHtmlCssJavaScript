@@ -25,14 +25,6 @@ function classificarImc(imc) {
 })();
 
 
-//Criando uma função e atribuindo valores diferentes a mesma função
-function seuNome(nome){
-    console.log('Meu nome é ' + nome);
-}
-seuNome('Carlos');
-seuNome("jose");
-
-
 // Criando função imediatamente invocada (cria e se executa)
 // Pode-se até tirar o nome da função que ela funciona da mesma forma.
 (function mediaNotas(media1, media2){
@@ -41,3 +33,15 @@ seuNome("jose");
     const mediaNotas = (media1 + media2)/2;
     console.log('A sua média é :' + mediaNotas);
 })();
+
+
+//Criando uma função e atribuindo valores diferentes a mesma função
+function seuNome(nome){
+    console.log('Meu nome é ' + nome);
+}
+seuNome('Carlos');
+seuNome("jose");
+
+// Exemplo de exportação da função seuNome
+// Um mode de se fazer exportação >>>   module.exports.seuNome = seuNome; <<<
+module.exports = {seuNome};
