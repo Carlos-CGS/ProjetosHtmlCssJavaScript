@@ -11,3 +11,8 @@
 
 ✅ [Site Surpresa Casamento](https://github.com/Carlos-CGS/ProjetosHtmlCss/tree/main/Site_Surpresa_Casameno-2017-primeiroProjeto) | Projeto criado do zero em 2017 como primeiro projeto informal.
 
+✅ [Soldado Gamer](https://github.com/Carlos-CGS/ProjetosHtmlCssJavaScript/tree/main/SoldadoGamer) | Projeto criado durante um curso de desenvolvimento de jogos da DIO, com adapatações e alterações em seu escopo para torna-lo pessoal e incrementado.
+
+
+
+
