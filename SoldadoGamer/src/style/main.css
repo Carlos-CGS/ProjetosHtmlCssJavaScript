@@ -1,0 +1,63 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("../imagem/camuflado.jpg");
+}
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90px;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    border-bottom: 5px solid #09d609;
+}
+
+.panel{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.square{
+    height: 150px;
+    width: 150px;
+    border: 1px solid #000000;
+    background-color: #6b8e23;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px #cec9c9b2;
+}
+
+.enemy{
+    background-image: url("../imagem/inimigo.png");
+    background-size: cover;
+}
+
+.menu-lives{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.second{
+    margin-top: 1rem;
+}
+
+.btn {
+    height: 60px;
+    width: 180px;
+    border: 1px solid #d4cfcf2a;
+    background-color: #000000;
+    text-decoration-color: #000000;
+    display: block;
+    margin: auto;
+    text-decoration: arial;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #cec9c9b2;
+    cursor: pointer;
+}
