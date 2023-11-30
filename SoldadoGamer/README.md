@@ -13,3 +13,5 @@ Vamos utilizar HTML, CSS e Javascript para criar um jogo baseado no filme Detona
 ### Front-End - Intermediário
 
 - Todo o código foi digitado letra a letra por mim, acompanhando as orientações das aulas e após finalizar as aulas, fiz minhas adaptações e personalizações no Jogo.
+
+<img src="./src/imagem/soldadoGame.png"/>
