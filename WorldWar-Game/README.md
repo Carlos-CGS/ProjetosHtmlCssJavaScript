@@ -1,6 +1,6 @@
-# Projeto World War, baseado em Yugioh jokenpô
+# Projeto World War, baseado em Yu-Gi-Oh jokenpô
 
-## Projeto de um Jogo de Cartas Yugiho Jokempô com alterações, se tornando um Jogo de Cartas de Guerra.
+## Projeto de um Jogo de Cartas Yu-Gi-Oh Jokenpô com alterações, se tornando um Jogo de Cartas de Guerra.
 
 ### DESCRIÇÃO:
 Vamos recriar um jogo do Yu-Gi-Oh utilizando as mecânicas de jogo do Jo-Ken-Po, vamos explorar conceitos avançados de organização de states com Javascript puro, estruturação de arquivos e criação de funções reaproveitáveis.
