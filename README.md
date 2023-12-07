@@ -13,6 +13,8 @@
 
 ✅ [World War - Gamer](https://github.com/Carlos-CGS/ProjetosHtmlCssJavaScript/tree/main/WorldWar-Game) | Projeto criado durante um curso de desenvolvimento de jogos da DIO, com adapatações e alterações em seu escopo para torna-lo pessoal e incrementado.
 
+✅ [Memoria Tech - CGS](https://github.com/Carlos-CGS/ProjetosHtmlCssJavaScript/tree/main/memoriaTech-Game) | Projeto criado durante um curso de desenvolvimento de jogos da DIO, com adapatações e alterações em seu escopo para torna-lo pessoal e incrementado.
+
 ✅ [PianoTech - CGS](https://github.com/Carlos-CGS/ProjetosHtmlCssJavaScript/tree/main/memoriaTech-Game) | Projeto criado durante um curso de desenvolvimento de jogos da DIO, com adapatações e alterações em seu escopo para torna-lo pessoal e incrementado.
 
 
