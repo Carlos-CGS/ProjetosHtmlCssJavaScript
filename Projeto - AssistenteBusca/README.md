@@ -1,19 +1,20 @@
 # Projeto - Assistente de Busca - Imersão Alura X Google
 
-Este é um projeto simples de aplicação web que permite realizar buscas a partir de um campo de input. A funcionalidade de busca pode ser acionada tanto pelo clique no botão "Pesquisar" quanto pressionando a tecla "Enter".
+Este é um projeto simples de aplicação web que permite realizar buscas a partir de um campo de input. A funcionalidade de busca pode ser acionada tanto pelo clique no botão "Pesquisar" quanto pressionando a tecla "Enter". A propaganda é direcionada de acordo com as buscas efetuadas no buscado, sempre apresentando a propaganda da linguagem mais pesquisada.
 
 ## Funcionalidades
 
 - Campo de input para digitar a pesquisa.
 - Botão de "Pesquisar" para acionar a busca.
 - Acionamento da busca pressionando a tecla "Enter".
+- Direcionamento de propaganda, através da quantidade de vezes que se busca pelo nome da linguagem.
 - Integração com APIs ou serviços de busca (em construção).
 
 ## Tecnologias Utilizadas
 
 - **HTML**: Estrutura básica da aplicação.
 - **CSS**: Estilos simples para a interface do usuário.
-- **JavaScript**: Lógica para captura de eventos e acionamento da função de busca.
+- **JavaScript**: Lógica para captura de eventos e acionamento da função de busca, além do direcionamento dos anúncios.
 
 ## Estrutura de Arquivos
 
