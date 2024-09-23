@@ -21,6 +21,14 @@ A aplicação consiste em uma calculadora básica desenvolvida em React, utiliza
 - **JavaScript (ES6+)**: Linguagem de programação principal do projeto.
 - **HTML5** e **CSS3**: Estruturação e estilização.
 
+## 🔧 Alterações Realizadas
+
+- **Cores**: Alteração das cores da interface para um tema mais moderno.
+- **Borda Arredondada**: Adicionada borda arredondada ao container da calculadora.
+- **Multiplicação e Divisão**: Adicionadas as funcionalidades de multiplicação e divisão.
+- **Botão de Ponto Decimal**: Configurado para permitir apenas um ponto decimal por número.
+- **Título**: Adicionado um título para a calculadora na interface.
+
 ## 🚧 Como Executar o Projeto
 
 1. Clone o repositório:
@@ -43,3 +51,7 @@ A aplicação consiste em uma calculadora básica desenvolvida em React, utiliza
    ```bash
    http://localhost:3000
    ```
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Se você quiser melhorar ou adicionar novas funcionalidades, sinta-se à vontade para abrir um pull request.
